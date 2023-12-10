@@ -7,7 +7,7 @@
 This project deals with the dataset from FIFA-20 Video Game to perform various Data Anaysis Operations such as Data Wrangling & Exploratory Data Analysis.
 ## Installation & Setup
 
-### Codes and Resources Used
+### Resources Used
 
 - Editor/IDE: Jupyter Notebook.
 - Environment/Backend: Conda
